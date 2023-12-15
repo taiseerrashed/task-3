@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(1, 1, 46);
+    height: 55px;
+}
+.header ul{
+    display: flex;
+    list-style: none;
+}
+.header ul li a{
+    margin-left: 10px;
+    color: #fff;
+    text-decoration: none;
+}
